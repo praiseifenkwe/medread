@@ -19,6 +19,8 @@ It is structured to guarantee mastery across all three pillars of the medical pr
 
 | File | Module / Subject | High-Yield Exam Focus |
 | :--- | :--- | :--- |
+| **[SLIDE_1_IRON_METABOLISM_SUMMARY_AND_60_MCQS.md](./SLIDE_1_IRON_METABOLISM_SUMMARY_AND_60_MCQS.md)** | **Slide 1 Master Guide (Dr. Davies)** | Concise plain-English summary, dictionary of big terms, high-yield exam pearls, and **60 Clinical MCQs** strictly from `4. Iron Metabolism.pptx` with complete distractor breakdowns. |
+| **[SLIDE_2_IRON_DEFICIENCY_AND_OVERLOAD_SUMMARY_AND_60_MCQS.md](./SLIDE_2_IRON_DEFICIENCY_AND_OVERLOAD_SUMMARY_AND_60_MCQS.md)** | **Slide 2 Master Guide (Dr. Davies)** | Concise plain-English summary, dictionary of big terms, evolution of IDA, IV iron table, and **60 Clinical MCQs** strictly from `5. Iron Deficiency Anaemia & Iron Overload.pptx` with complete distractor breakdowns. |
 | **[ESSAYS_IRON_METABOLISM_AND_OVERLOAD.md](./ESSAYS_IRON_METABOLISM_AND_OVERLOAD.md)** | **Specialized Theory Essays** | 6 complete model essays: Hepcidin pathway, ACD/IL-6, DMT1/Fpn transit, Iron Overload, Primary vs Secondary, Fenton reaction/ROS. |
 | **[FLASHCARDS_IRON_METABOLISM_AND_OVERLOAD.md](./FLASHCARDS_IRON_METABOLISM_AND_OVERLOAD.md)** | **Active Recall Flashcards** | 14 high-yield Q&A cards covering definitions, transporters, biochemical reactions, clinical tetrads, and chelation pharmacology. |
 | **[01_FOUNDATIONS_AND_HEMOPOIESIS.md](./01_FOUNDATIONS_AND_HEMOPOIESIS.md)** | FPPP: Hemopoiesis & Microenvironment | Stem cell kinetics, HIM stroma, growth factors, lineage morphology, bone marrow microanatomy. |
