@@ -15,6 +15,22 @@ It is structured to guarantee mastery across all three pillars of the medical pr
 
 ---
 
+---
+
+## 📥 Printable PDF Study Suite (Offline Reading & In-Course Revision)
+
+Directly print or read the complete study suite in high-resolution, textbook-formatted PDF:
+
+| Printable PDF Document | Size | Coverage / Content |
+| :--- | :--- | :--- |
+| **[01_Slide_1_Iron_Metabolism_Summary_and_60_MCQs.pdf](./PDFs/01_Slide_1_Iron_Metabolism_Summary_and_60_MCQs.pdf)** | 1.5 MB | Full simplified summary, glossary, exam traps, and **60 Clinical MCQs** for Slide 1 (`4. Iron Metabolism.pptx`). |
+| **[02_Slide_2_Iron_Deficiency_and_Overload_Summary_and_60_MCQs.pdf](./PDFs/02_Slide_2_Iron_Deficiency_and_Overload_Summary_and_60_MCQs.pdf)** | 1.3 MB | Full simplified summary, glossary, IDA evolution, IV iron table, and **60 Clinical MCQs** for Slide 2 (`5. Iron Deficiency Anaemia & Iron Overload.pptx`). |
+| **[03_Pharmacology_Exp_3_Individual_Variations_30_Questions.pdf](./PDFs/03_Pharmacology_Exp_3_Individual_Variations_30_Questions.pdf)** | 436 KB | **30 Verbatim Questions & Model Answers** from Page 31: Quantal response, obstetrical sodium amytal, log-normal curves, $LD_{50}$, hexobarbitone. |
+| **[04_Pharmacology_Exp_5_Routes_of_Administration_30_MCQs.pdf](./PDFs/04_Pharmacology_Exp_5_Routes_of_Administration_30_MCQs.pdf)** | 560 KB | **30 Verbatim MCQs** from Page 41: Effect of route, male rats, gavage tube, Nembutal, loss of righting reflex (LORR), and Oral/IP/IM/SC kinetics. |
+| **[05_Pharmacology_Exp_20_Mouse_Writhing_Assay_30_MCQs.pdf](./PDFs/05_Pharmacology_Exp_20_Mouse_Writhing_Assay_30_MCQs.pdf)** | 584 KB | **30 Verbatim MCQs** from Page 112: 0.6% acetic acid, morphine vs aspirin, 6 groups, 30-min absorption, writhing definition, % inhibition formula. |
+| **[06_Essays_Iron_Metabolism_and_Overload.pdf](./PDFs/06_Essays_Iron_Metabolism_and_Overload.pdf)** | 396 KB | 6 Comprehensive Model Essays with diagrams, cascades, and marking keys for professional exams. |
+| **[07_Flashcards_Iron_Metabolism_and_Overload.pdf](./PDFs/07_Flashcards_Iron_Metabolism_and_Overload.pdf)** | 193 KB | 14 High-Yield Active Recall flashcards with question-and-answer pairs. |
+
 ## 📂 Navigation & Study Guide Directory
 
 | File | Module / Subject | High-Yield Exam Focus |
